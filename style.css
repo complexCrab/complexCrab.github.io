@@ -40,6 +40,10 @@ h1 {
   font-family:sans-serif;
 }
 
+a {
+  text-decoration: none;
+}  
+
 @keyframes slide {
   0% {
     transform:translateX(-25%);
